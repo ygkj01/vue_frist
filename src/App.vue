@@ -17,6 +17,7 @@
   </div>
 </template>
 
+
 <script>
 import HelloWorld from "./components/HelloWorld.vue";
 import axios from "axios";
@@ -65,4 +66,5 @@ export default {
 .layout:hover {
   cursor: pointer;
 }
+
 </style>
